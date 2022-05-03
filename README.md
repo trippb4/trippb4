@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben!</h1>
+<h1>Hi, I'm Ben! <br/> Cyber Security Student</h1>
 
 <h2>👨‍💻 Projects:</h2>
 
