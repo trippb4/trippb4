@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Python Practice</b>
-  - [Read/Write Files]()
+- <b>Software Development Exercises</b>
+  - [Python Practice](https://github.com/trippb4/PythonPractice)
 
 - <b>Cyber Security and IT</b>
   - [Active Directory Home Lab](https://medium.com/@benjtripp/lab-active-directory-setup-using-oracle-virtualbox-adding-users-with-powershell-1ec0f7a8d221)
