@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Python Practice</b>
+  - [Read/Write Files]()
+
 - <b>Cyber Security and IT</b>
   - [Active Directory Home Lab](https://medium.com/@benjtripp/lab-active-directory-setup-using-oracle-virtualbox-adding-users-with-powershell-1ec0f7a8d221)
   - [Vulnerability Management with Nessus Home Lab](https://medium.com/@benjtripp/lab-basic-vulnerability-management-with-nessus-37e04ada1323)
