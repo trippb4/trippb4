@@ -6,9 +6,9 @@
   - [Python](https://github.com/trippb4/PythonPractice)
 
 - <b>Cyber Security and IT</b>
-  - [Active Directory Home Lab](https://medium.com/@benjtripp/lab-active-directory-setup-using-oracle-virtualbox-adding-users-with-powershell-1ec0f7a8d221)
-  - [Vulnerability Management with Nessus Home Lab](https://medium.com/@benjtripp/lab-basic-vulnerability-management-with-nessus-37e04ada1323)
-  - [Azure Sentinel (SIEM) Home Lab](https://medium.com/@benjtripp/siem-beginner-lab-azure-sentinel-map-plotting-real-time-cyber-attacks-7ba78b0803b2)
+  - [Active Directory Home Lab(medium)](https://medium.com/@benjtripp/lab-active-directory-setup-using-oracle-virtualbox-adding-users-with-powershell-1ec0f7a8d221)
+  - [Vulnerability Management with Nessus Home Lab(medium)](https://medium.com/@benjtripp/lab-basic-vulnerability-management-with-nessus-37e04ada1323)
+  - [Azure Sentinel (SIEM) Home Lab(medium)](https://medium.com/@benjtripp/siem-beginner-lab-azure-sentinel-map-plotting-real-time-cyber-attacks-7ba78b0803b2)
 <h2> Education:</h2>
 
 Bachelors of Science, Cyber Security and Information Assurance | Western Governors University | Currently Enrolled
