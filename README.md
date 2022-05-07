@@ -2,6 +2,9 @@
 
 <h2>📘 Practice and Exercises:</h2>
 
+- <b>Software Development Exercises</b>
+  - [Python](https://github.com/trippb4/PythonPractice)
+
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cyber Security and IT</b>
